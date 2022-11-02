@@ -1,4 +1,4 @@
-//let nums = [1,7,3,6,5,6] //OutPut = 3 Find the pivot Index
+//let nums = [1,7,3,6,5,6] //OutPut = 3 => Find the pivot Index
 Questions:-1 
 // function pivotIndex (nums){
 //     let sum =0;
